@@ -2,7 +2,11 @@
 A application using MERN stack
 
 ## Start Backend
-using
+first use
+```cmd
+npm install
+```
+& then by using
 ```cmd
 node index.js
 ```
@@ -16,7 +20,11 @@ command inside ```Back-End``` folder, start backend
 ![BackEnd](https://github.com/Bhushan-Wagh98/CRUD-using-mongo-Atlas/blob/main/Images/backendVS.png)
 
 ## Start FrontEnd React app
-using 
+first use
+```cmd
+npm install
+```
+& then by using 
 ```cmd
 npm start
 ```
