@@ -1,15 +1,14 @@
 # CRUD application using mongo Atlas
 A application using MERN stack
 
-
 ## Start Backend
 using
-```
-$ node index.js
+```cmd
+node index.js
 ```
 or
-```
-$ npm run dev
+```cmd
+npm run dev
 ```
 command inside ```Back-End``` folder, start backend
 <hr/>
@@ -18,8 +17,8 @@ command inside ```Back-End``` folder, start backend
 
 ## Start FrontEnd React app
 using 
-```
-$ npm start
+```cmd
+npm start
 ```
 command inside ```Front-End``` folder, start frontend
 <hr/>
