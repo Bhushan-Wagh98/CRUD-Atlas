@@ -17,7 +17,11 @@ command inside ```Back-End``` folder, start backend
 ![BackEnd](https://github.com/Bhushan-Wagh98/CRUD-using-mongo-Atlas/blob/main/Images/backendVS.png)
 
 ## Start FrontEnd React app
-using ```npm start``` command inside ```Front-End``` folder, start frontend
+using 
+```
+$ npm start
+```
+command inside ```Front-End``` folder, start frontend
 <hr/>
 
 ![FrontEnd](https://github.com/Bhushan-Wagh98/CRUD-using-mongo-Atlas/blob/main/Images/FrontEndVS.png)
