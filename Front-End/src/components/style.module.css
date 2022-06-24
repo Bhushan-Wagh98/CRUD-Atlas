@@ -1,0 +1,66 @@
+.homepageLinks {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+input {
+  width: 300px;
+  height: 35px;
+  font-size: 15px;
+  padding: 5px 15px;
+  margin-bottom: 20px;
+  border: 1px solid gray;
+  border-radius: 12px;
+}
+input:focus {
+  outline: none;
+}
+button {
+  padding: 8px 15px;
+  font-size: 15px;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+}
+.submit {
+  background-color: green;
+  color: white;
+}
+a > button {
+  text-decoration: none;
+  color: white;
+}
+h1 {
+  color: white;
+  background-color: #a27cf0;
+  padding: 20px 0;
+  margin-top: 0;
+}
+.customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.customers td,
+.customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.customers tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.customers tr:hover {
+  background-color: #ddd;
+}
+
+.customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #04aa6d;
+  color: white;
+}
